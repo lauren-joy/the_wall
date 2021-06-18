@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://st3.depositphotos.com/3496559/13010/i/950/depositphotos_130101138-stock-photo-tie-dye-background.jpg);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-shadow: rgb(247, 127, 167) 1px 1px;
+}
+
+a {
+    color:black;
+}
+
+.posted_info {
+    text-shadow: rgb(247, 127, 167) 1px 1px;
+}
+
+.write_message {
+    padding-left: 300px;
+    text-shadow: rgb(247, 127, 167) 1px 1px;
+}
+
+.write_comment {
+    padding-left: 400px;
+    text-shadow: rgb(247, 127, 167) 1px 1px;
+}
+
+.posted_info {
+    padding-left: 100px;
+    text-shadow: rgb(247, 127, 167) 1px 1px;
+}
+
+.actual_comment {
+    padding-left: 200px;
+    text-shadow: rgb(247, 127, 167) 1px 1px;
+}
+
+.delete_comment {
+    padding-left: 300px;
+}
+
